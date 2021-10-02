@@ -1,0 +1,8 @@
+"One of the main obstacles to learn a computer language is learning the things not germane to learning the language. Ch is as close to a perfect teaching environment as I have seen in 20 years for teaching C or C++. I advocate Ch to all of my CS students. If I were in charge of the world, I would require all schools to use an interactive environment such as Ch."
+
+--- Professor Gene Sheppard, Computer Science, Georgia Perimeter College
+
+"Ch is the first implementation, portable to different platforms, of major new features of complex numbers, variable length arrays (VLAs), and IEEE floating-point arithmetic added in C99.
+I have to mention how impressed I am with both the quality of Ch and how complete the environment is. I had recently ported code written over years in C shell, Perl, and Python to Ch. The porting was very simple and straightforward."
+
+--- Tom MacDonald, the former Chair of the ANSI C Standard Committee 
