@@ -1,0 +1,12 @@
+Also known as ‘automatic type conversion’.
+
+    Done by the compiler on its own, without any external trigger from the user.
+    Generally takes place when in an expression more than one data type is present. In such condition type conversion (type promotion) takes place to avoid loss of data.
+    All the data types of the variables are upgraded to the data type of the variable with largest data type.
+
+        
+           bool -> char -> short int -> int -> 
+           unsigned int -> long -> unsigned -> 
+           long long -> float -> double -> long double
+
+    It is possible for implicit conversions to lose information, signs can be lost (when signed is implicitly converted to unsigned), and overflow can occur (when long long is implicitly converted to float).
